@@ -1,5 +1,7 @@
 <img src="https://elytrium.net/src/img/elytrium.webp" alt="Elytrium" align="right">
 
+tg://proxy?server=mte2ljiwmi4xmy43oa.rand.mtproto.ru&port=443&secret=ee21112222333344445555666677778888636c6f756463646e2d6672612d30322e63646e2e79616e6465782e6e6574
+
 # LimboAuth
 
 [![Join our Discord](https://img.shields.io/discord/775778822334709780.svg?logo=discord&label=Discord)](https://ely.su/discord)
